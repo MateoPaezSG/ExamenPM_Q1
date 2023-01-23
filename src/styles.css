@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(23, 6, 39);
+}
+.content{
+    text-align: center;
+    background-color: rgb(0, 167, 139);
+    border-radius: 50px;
+    width: 400px;
+    margin-left: 475px;
+    box-shadow: 2px;
+    box-shadow: black;
+}
